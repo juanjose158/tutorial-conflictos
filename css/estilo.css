@@ -11,3 +11,7 @@ body {
 h2 {
     border-bottom: 1px solid #a0b0a0; 
 }
+footer {
+    height: 30px;
+    background-color: yellow;
+}
